@@ -219,8 +219,6 @@ ol {
   text-decoration-skip-ink: none;
 }
 
-
-
 .content__details {
   width: 100%;
   display: flex;
@@ -271,7 +269,6 @@ ol {
   outline: 1px solid #fff;
 }
 
-
 .content__video-card-thumbnail {
   width: 194px;
   height: 103px;
@@ -303,7 +300,7 @@ button:hover {
 .button:focus {
   outline: 1px solid;
   outline-offset: 1px;
-} 
+}
 
 .more-button {
   width: 100%;
