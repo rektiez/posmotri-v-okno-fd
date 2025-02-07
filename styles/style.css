@@ -309,8 +309,7 @@ button:hover {
 }
 
 .content__list-item {
-  padding-left: 3px;
-  padding-right: 3px;
+  padding: 0px 3px;
 }
 
 .visually-hidden {
