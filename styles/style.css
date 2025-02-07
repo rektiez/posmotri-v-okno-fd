@@ -227,12 +227,6 @@ ol {
   gap: 26px;
 }
 
-.content__list-container {
-  position: relative;
-  max-height: 298px;
-  overflow: auto;
-}
-
 .title {
   font-family: Oswald, sans-serif;
   font-style: normal;
