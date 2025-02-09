@@ -162,14 +162,13 @@ ol {
 
 .search-form__checkbox-list {
   display: flex;
-
   gap: 15px;
 }
 
 .search-form__pseudo-checkbox {
   display: flex;
   justify-content: center;
- align-items: center;
+  align-items: center;
   border: 1px solid #fff;
   width: 19px;
   height: 19px;
